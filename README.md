@@ -5,7 +5,7 @@
 # Experience ⏲️
 <li>I have 3 years of intermidiate experience with Python, mainly versions 3.2 - 3.9, and create advanced programs for my needs.
 <li>I have 1 year of Java experince, creating plugins for minecraft servers and 1.8 clients.
-<li>I have 2.5 years of HTML/CSS experience, programming webapps.<br>
-  ---
+<li>I have 2.5 years of HTML/CSS experience, programming webapps.<br><br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiyanSteevDEV&theme=dark" /> 
 
